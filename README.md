@@ -37,7 +37,7 @@ Teaching developers how to use Claude AI for web optimization and code refactori
 - Developer mentoring and education
 
 ## Contact
-📧 Email: andreyrostovskiy1@gmail.com
+📧 Email: andrei@my-ai-edu.com
 
 ---
 
